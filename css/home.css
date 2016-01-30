@@ -1,0 +1,108 @@
+body {
+    background-image: url(img/4.jpg);
+    background-size: 100%, 100%;
+    background-attachment: fixed;
+}
+
+.navbar-inverse {
+    background-color: rgba(0,0,0,0.8);
+    border-color: rgba(0,0,0,0.8);
+}
+
+div{
+    display: block;
+}
+
+.messagefeed{
+    background-color: #EEE;
+    margin-left: 30px;
+    width: auto;
+    float: left;
+    padding: 20px;
+    border-radius: 15px 5px;
+    position: fixed;
+}
+
+.photo{
+    text-align: center;
+}
+
+.mainpage{
+    margin-top: 70px;
+}
+
+.messageContent{
+    background-color: #EEE;
+    width: 70%;
+    height: 800px;
+    float: right;
+    margin-right: 60px;
+    margin-left: 20px;
+    border-radius: 15px;
+    padding: 30px 0;
+}
+
+.tool{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.messagebox{
+    text-align: center;
+    width:80%;
+    height: auto;
+    border-radius: 15px;
+    border-color: rgb(0,0,0);
+    margin:0 auto;
+}
+
+.userbox{
+    background: #fff;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 0px 0px 2px #999;
+    max-width: 200px;
+    float: left;
+    border-radius: 8px;
+    color: #393838;
+}
+
+.photoinfo{
+    text-align: center;
+    margin: 15px;
+    float: left;
+}
+
+.textinfo{
+    margin: 20px;
+}
+
+.text1{
+    color: #808080;
+}
+
+.usingFeed{
+    margin: 10px;
+}
+.selectPerson{
+    margin: 10px;
+}
+
+.leftbody{
+    width: auto;
+    height: auto;
+    float: left;
+}
+
+.rightbody{
+    width: 50%;
+}
+
+.right{
+    width: 30%;
+    height: 50px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 35px;
+}
